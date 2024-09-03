@@ -7,4 +7,5 @@
 
 [**sql**](https://github.com/AnatolyKuzmin/authorization_powerShell/blob/main/script_выргузка_SQL.ps1)  
 [**excel**](https://github.com/AnatolyKuzmin/authorization_powerShell/blob/main/script_обновление_отчета.ps1)  
+
 ...
